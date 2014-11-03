@@ -1,0 +1,30 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"Anaconda",
+		"AutoPEP8",
+		"BufferScroll",
+		"Djaneiro",
+		"Emmet",
+		"EncodingHelper",
+		"HTML5",
+		"HTMLBeautify",
+		"INI",
+		"IPython Notebook",
+		"Jedi - Python autocompletion",
+		"JsFormat",
+		"JsonTree",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Modific",
+		"Pretty JSON",
+		"requirementstxt",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Tag",
+		"Theme - Flatland",
+		"Tomorrow Color Schemes"
+	]
+}
